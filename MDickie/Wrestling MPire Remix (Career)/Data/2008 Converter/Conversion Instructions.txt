@@ -1,0 +1,16 @@
+---- Wrestling ----
+--- MPire REMIX ---
+www.MDickie.com
+Mat@MDickie.com
+
+DATA CONVERTER
+
+This specially made program is designed to convert your old "2008" character files for use with the new "Remix" edition. Although the program makes things as easy as possible, it can still be a complicated process and shouldn't be attempted by those who aren't comfortable with modding the games.
+
+To make use of it, simply place the data files from your old "Slot00" universe in the "2008 Files" folder. At your command, the program will then convert the contents of this folder and save them to "Remix Files". You may then take these converted files and copy them to the default universe ("Slot00") in your installation of Wrestling MPire Remix.
+
+In Remix, "Career Edition" and "Management Edition" are 100% compatible and the same data can be used by each. It is not wise to apply a new universe to a game in progress, so consider starting a new career with your converted data.
+
+Also note that you may need to copy over any character portraits manually. 
+
+

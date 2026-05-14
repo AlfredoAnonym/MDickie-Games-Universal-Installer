@@ -1,0 +1,8 @@
+REACH
+www.MDickie.com
+mat@mdickie.com
+
+EDITING MUSIC
+Every correctly named addition to this folder will be loaded up and made available in the game. It is ESSENTIAL that you maintain consistency in the sequence of file names, because the program won't be able to fill in the gaps! Any new files must also be of the same type (i.e. WAV) to be acknowledged by the game. They should also be of the same frequency (22050kHz) if you are to make use of the "Theme Pitch" option...
+
+You are advised to show restraint when expanding the selection! Remember that every file takes its toll on the game's loading time and performance. Inversely, you are advised not to reduce the default range of music. Although it's safe to do so, it could ruin the settings of the default characters...

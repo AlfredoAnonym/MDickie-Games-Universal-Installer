@@ -1,0 +1,67 @@
+REACH
+www.MDickie.com
+mat@mdickie.com
+
+* This document concerns itself with the functionality of the game. For more information about the Career mode, please refer to the additional "Career Guide" document...
+
+Reach for the top of the rankings in a bold new era of boxing! The "Boxing Entertainment Commission" has shunned mundane sport in favour of exciting action - and you're cordially invited to join the fun. Create your own prize fighter from scratch and immerse yourself in gaming's most involving boxing universe - featuring up to 100 characters spread across 3 weight classes. Here, what happens in the ring is merely the first round - as you proceed backstage to manage your business affairs and plot your next career move! Negotiate lucrative contracts with the suits and then arrange matches with the talent - filling up your weekly schedule with spectacular pay-per-view bouts and history-making tournaments. Along the way, you'll transform your body to survive in the ring and adjust your attitude to survive backstage. With so many balls in the air, the only question is will your "Reach" exceed your grasp?
+
+SYSTEM REQUIREMENTS
+This game requires a strong processor of at least 1.6gHz to run properly. Naturally, a 3D card is essential and must be running DirectX 7.0 graphics or higher. Please consult the Options menu to configure the game for optimum performance. Although keyboard control is available, the game is designed to be played with a 6-button gamepad...
+
+----------------------------------------------- CONTROLS ------------------------------------------------------------
+
+MENUS
+The menus of the game can be navigated with either keys, gamepad or mouse. Highlighting an option with the cursors and pressing ENTER (or any gamepad button) will access it, whereas hitting ESCAPE cancels or returns you to the previous screen. Settings can be adjusted by simply using left and right directions (or left and right clicks in the case of a mouse), and where there are countless possibilities you should find that you can "randomize" your way closer to what you're looking for with the SPACE BAR. You may find that other screens have even further interactivity - such as the character rankings that allow you to re-order by clicking on any particular statistic. Look out for onscreen prompts that remind you of the options available to you at any given time...
+
+GAMEPLAY
+The game itself can only be controlled with keys or gamepad. You may assign your preferred method (including CPU control) to either boxer while setting up an exhibition match by repeatedly clicking on their name box. In the case of the Career mode, your star character can always be controlled by either method. The precise control layout for both each method can be redefined in the Options menu (which is strongly recommended in the case of gamepads!), but as standard they are as follows:
+
+KEYS
+A = Upper Left Punch
+S = Upper Right Punch
+Z = Lower Left Punch
+X = Lower Right Punch
+SPACE = Taunt / Referee duties
+LEFT CTRL = Switch focus
+
+GAMEPAD
+BUTTON 1 = Upper Left Punch
+BUTTON 2 = Upper Right Punch
+BUTTON 3 = Lower Left Punch
+BUTTON 4 = Lower Right Punch
+BUTTON 7 = Taunt / Referee duties
+BUTTON 5 = Switch focus
+
+PUNCHES
+As you can see, a boxer's attacking options are divided into the 4 basic categories of upper or lower and left or right. Those are further divided into 3 levels of power. Attacking while holding a DIRECTION (i.e. towards your opponent) will deliver a quick jab, whereas pressing the command with NO DIRECTION will favour a stronger hook. Furthermore, pressing both UPPER and LOWER commands together will deliver an extremely powerful "Special" attack from either side. In a similar manner, you can also block either high or low by accessing both the LEFT and RIGHT arms simultaneously (although once blocking has been initiated the most appropriate height will be used automatically). You can still shuffle closer to your opponent while blocking (or weave at close quarters) by holding a direction...
+
+MOVEMENT
+It's important to remember that your movements are linked to the position of the camera at all times. The camera constantly re-orientates itself to get the best view of the action, but wherever it happens to be UP and DOWN always move your character further into the distance or closer to you respectively - whereas LEFT and RIGHT always move towards the sides of the screen. When you're not focused on another character, you should find that the direction you're facing is also affected by this input. If you find the standard movements too restricting you can also run (or dodge in the case of close combat) by pressing any direction TWICE in quick succession. In addition to moving around the ring, you can climb into or out of it by repeatedly walking against the ropes or apron. Likewise, it's also possible to access seats such as the end of round stools by simply walking into them. Should you ever get close enough to your opponent, you can even initiate an energy-saving hug by walking into them!
+
+OTHER CONTROLS
+You can exercise more control over the game itself with these additional commands:
+ESCAPE = Skip entrance or break / Abort current match / Leave a finished match
+1 - 0 = Activate one of 10 preset camera angles (press repeatedly to browse sub-categories)
+P = Pause / Resume
+F12 = Save screenshot to "Photo Album" folder  
+MOUSE = Manual camera (click to zoom)
+
+---------------------------------------------------- EDITING ----------------------------------------------------------------------------
+
+CHARACTERS
+The game contains a sophisticated editing facility for creating your star character (and editing the whole universe once the privilege has been earned!). Here you have a limited amount of points with which to create your starting profile, before specifying the costumes and character traits that make your character unique. Because of the added complexity of customizing an entire character, several unique options come into play. You can input a new name by clicking or pressing BACKSPACE over the existing one. Also remember that the character model needs to be reloaded upon being assigned a significantly different weight, and you must press ENTER over the option to trigger that process. When browsing the many clothing options, you may also like to consider that it's possible to skip closer to what you're looking for by pressing the SPACE BAR to randomize the current option. Depending on the status of your career, you may find that many of these options have ceased to be available to you once the game starts - so take care to perfect your starting character...
+
+UNIVERSES
+Once you start winning things in the Career mode and unlock the various character pools, you may want to consider the new options that are available to you. You can re-arrange the rankings in any weight class by RIGHT-CLICKING on a character and then again over the slot you want them to take. In this manner, you can create new champions (or change the BEC boss in the case of managers). You can even switch characters from one division to another by using keys 1-5 respectively. Take care when choosing which "universe" to unleash your Godly powers on. In addition to the 3 unique saved game slots, you can also edit the "Default" world - which is what a new career will start with. If you find you've edited this beyond repair, you can restore the original universe by clicking the "Reset Universe" option...
+
+FURTHER EDITING
+And that's just the tip of the iceberg! Almost every range of media - from the costumes to the theme tunes - is designed to be expanded with your own creations. Take care in doing this and study the "Editor's Notes" documents that lie in each customizable folder...
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+For more information about this and other games, 
+please visit: http://www.MDickie.com 
+or contact: mat@mdickie.com
+
+

@@ -1,0 +1,10 @@
+( POP | SCENE ) 2
+www.MDickie.com
+Mat@MDickie.com
+
+EDITING PLAYLISTS
+The game checks here for any MP3 pools. You are encouraged to add your own, but it's absolutely ESSENTIAL that you follow the naming pattern! Folders should be named "MP3 Pool XX", and they should be in sequence. Failure to do so could cause the game to crash. Otherwise, the new folders should be available at the game's "Publishing" screen...
+
+When adding the tracks themselves, you should again follow the naming pattern. Tracks should be named "TrackXX", ranging from 01 to 14 (note the double digits). The game won't crash if it can't find the tracks, so don't worry about filling the folder. It will turn to the "Last Resorts" folder for those it cannot find...
+
+Please note that the game only acknowledges WAV and MP3 file formats! Any others will be ignored. Whatever the format, you are advised to trim any large files. The larger the file size, the longer they will take to load - so you have to ask yourself whether it's worth it. In any case, the game isn't designed to play songs for longer than a minute - so you may want to save space by cropping them. Since the performances begin straight away, it's also a good idea to trim songs with meandering introductions... 

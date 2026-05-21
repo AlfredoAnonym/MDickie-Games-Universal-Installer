@@ -1,0 +1,68 @@
+( POP | SCENE ) 2
+www.MDickie.com
+Mat@MDickie.com
+
+* This document concerns itself with the functionality of the game. For more information about the Career mode, please refer to the additional "Career Guide.txt" document...
+
+The intro is over, so turn the volume up for "Track 2" of MDickie's landmark music industry sim! This re-mixed version of Popscene brings you the same great concept in its most polished form. Construct your own act from hundreds of uniquely gifted artists and bring their work to life with the most impressive 3D visuals the series has ever enjoyed. The range of venues has exploded to a staggering 20 different locations - each of which has been carefully refurbished for this instalment. All you have to worry about is filling them with adoring fans! Doing so is more challenging than ever thanks to sophisticated new game mechanics that more accurately link your talent to your progress. And along the way you'll have to tip-toe your way through TWICE as many backstage meetings that make your chosen career a political minefield. A lot can change over the years in the music business. Have you still got what it takes to top the charts?
+
+SYSTEM REQUIREMENTS
+- This game requires an operating system compatible with DirectX 7.0 graphics or higher.
+- A strong processor of at least 1.6gHz is recommended to run the game properly.
+- Please consult the "Options" menus to configure the game for optimum performance. 
+- Vista users may experience difficulties on "Limited Accounts" and should log in as an "Administrator".
+
+------------------------------------------ CONTROLS -------------------------------------------------------------
+
+As a management game, Popscene is designed to be controlled by MOUSE at all times. The menus can be navigated by simply LEFT CLICKING on the appropriate options. Where necessary, values can be altered by using LEFT CLICK to browse forwards and RIGHT CLICK to browse backwards. ESCAPE can always be used to exit a screen, and where applicable BACKSPACE and SPACE can be used to reset or randomize values respectively. Look out for additional commands throughout the game.
+
+During actual performances and 3D scenes, there is very little that you have to control. However, you may like to know that you can override the camera by using the CURSORS to direct and A or Z to adjust the height. You can then hit F12 to save a screenshot to the "Photo Album" folder. ESCAPE can always be used to speed up processes or exit the scene.
+
+------------------------------------------- PUBLISHING -------------------------------------------------------------
+
+When you start the game, you will find yourself automatically working on your debut album. However, you should immediately visit the "Publishing" screen to configure the album to your liking. Here you can specify the name of the project (simply click to type in a new one), select the music source (CD or online files), and even shoot an album cover! These covers tend to be a little basic by default, but you can find the subsequent image in the "Data/SlotXX/Album Covers" folder and replace it with an image of your own creation...
+
+This is also where you should come to release one of 2 singles, and eventually the album itself. Although it's often best to wait until a single has run its course, you can release a new one at any time by clicking on the "Single Released" box again. Simply click on a track to make it your new priority - but be warned: you can only promote one project at a time! If you release a new single, the previous one will be withdrawn from sale...
+
+If you choose to work from a music CD, you must pay careful attention to the publishing and recording process because the game has no way of knowing what it's working with! Always make sure that the correct CD is sitting in the drive after changing a project or starting a new game. Furthermore, you are advised to choose CD's that have at least 10 legitimate songs...
+
+--------------------------------------- RECORDING STUDIO --------------------------------------------------------
+
+At the beginning of any new project, you will find that the recording studio is your home. It's here that you fine tune the details of each song and preview the results. You simply click on a track's name box to enter a new title, and click the remaining boxes to adjust the style and tone (the expressionless icon indicates an instrumental). Please note that these options are strictly aesthetic and have no discernable impact on your progress. However, you may find you enjoy the performances more if you choose wisely!
+
+Your primary concern is recording the tracks in the first place though. This is achieved automatically as the weeks pass (based on the competence of your team). For the first 10 songs, the game will automatically keep moving onto the next track - but you can turn your attention to a specific track by selecting it at the "Edit Playlist" screen. This is ideal for cutting out intros and "skits" when working from a music CD. The game stops specifying tracks for you after 10 songs because you may not want to record more than that. If you do, you must regularly visit this screen to specify the next track...
+
+----------------------------------------------- FORMATION ------------------------------------------------------------
+
+Once you have assembled a substantial team, you should regularly visit the "Formation" screen to keep everybody in check. Here you can choose a basic formation, and then arrange who goes where by RIGHT CLICKING on the relevant character slots. It's also here that you can access each character's profile to make minor adjustments to their appearance. In your star character's case, this is also where you come to change the name of the band... 
+
+All of the above are largely cosmetic choices though, which serve only to help you get a feel for your act. The most important reason to visit the "Formation" screen is to edit a character's ROLE. You can make any character adopt any role at any time, but the most significant change is between a "Backstage" role and an on-stage role. Backstage characters dedicate their skills to production, whilst on-stage characters dedicate their skills to the performance. Delegating these roles correctly is vital for a successful act...
+
+---------------------------------------------------- EDITING -----------------------------------------------------------
+
+CHARACTERS
+The game contains a sophisticated editing facility for creating your star character (and editing the whole universe once the privilege has been earned!). Here you have a limited amount of points with which to create your starting profile, before specifying the costumes and character traits that make your character unique. Remember that the character model needs to be reloaded after being assigned a different "Build", and you must press ENTER over the option to trigger that process. When browsing the many clothing options, you may also like to consider that it's possible to skip closer to what you're looking for by pressing the SPACE BAR to randomize the current option or BACKSPACE to reset it. Depending on the status of your career, you may find that many of these options have ceased to be available to you once the game starts - so take care to perfect your starting character...
+
+Upon selecting to edit a character's "Relationships", you will be whisked off to a whole other screen where you can click on every other character in the world and adjust the relationship between them. Each click browses between "Enemy" status (red), "Friend" status (green), or nothing at all. These changes are automatically mirrored in the target's profile, so there's no need to go through it twice. If you'd rather not go through it at all, you can randomize a character's relationships with a simple hit of the SPACE BAR or clear their network completely with BACKSPACE...
+
+LABELS
+Once you start making progress in the Career mode and unlock the various labels, you may want to consider the new options that are available to you. You can change a promotion's name (like a character's) by pressing BACKSPACE over the slot and entering a new one. While it's highlighted, you can also instantly change its bank balance with Q / W, its "Popularity" with A / S, and its "Reputation" with Z / X. Once you're inside and examining the roster, you can then trade characters from one roster to another with keys 1-6 respectively. Take care when doing so because it may mess up band allegiances...
+
+Take care when choosing which "universe" to unleash your Godly powers on! In addition to the 3 unique saved game slots, you can also edit the "Default" world - which is what a new career will start with. If you find you've edited this beyond repair, you can restore the original universe by clicking the "Reset Universe" option...
+
+FURTHER EDITING
+And that's just the tip of the iceberg! Almost every selection of media - from the costumes to the music - is designed to be expanded with your own creations. Take care in doing this and study the "Editor's Notes" documents that lie in each customizable folder...
+
+------------------------------------------------ CD PLAYER -------------------------------------------------------
+
+If you want to enjoy a performance without the pressures of the Career mode, you can visit the "CD Player" option. Here you choose an artist (band-mates will join them automatically) and configure a location of your choice. You will then have access to all 14 tracks from the CD drive, which can be played one by one. For your convenience, this screen is similar to the "Edit Playlist" screen - where you can adjust the style and tone of each song before clicking on the title to play it. To end these sessions you must click the EXIT button or press ESCAPE instead of choosing a song...
+
+----------------------------------------------------------------------------------------------------------------------------
+
+For more information about this game and others like it, 
+please visit: www.MDickie.com 
+or contact: Mat@MDickie.com
+
+If you encounter any problems or bugs, or simply have a request, don't hesitate to report those too...
+
+

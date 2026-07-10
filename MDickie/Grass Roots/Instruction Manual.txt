@@ -1,0 +1,120 @@
+GRASS 
+~~ O ~~
+ROOTS
+www.MDickie.com
+mat@mdickie.com
+
+Having redefined genres for the past 5 years, MDickie finally turns his attention to soccer - and delivers the most character-driven interpretation of the sport seen yet! Leave the professional experience on the bench, and rediscover your roots playing real people with real stories. Create your own sporting saviour from scratch and embark on a campaign for world domination - sampling the culture of each continent and challenging their heroes. Match after match, you'll gain loyal followers and confront bitter rivals - as you shimmy your way through a political minefield. But once that dream team has been formed, all that remains is to hit the pitch for the most dramatic sporting action on the planet! When you get back to basics and passion is all that matters, will your roots be strong enough?
+
+--------------------------------------- SYSTEM REQUIREMENTS ---------------------------------------
+
+This game requires an operating system compatible with DirectX 7.0, and a processor of around 1.6gHz to run properly. Although keyboard control is available, the game is designed to be played with a 3-button gamepad...
+
+---------------------------------------- MENU NAVIGATION ----------------------------------------
+
+The menus of the game can be navigated with either keys, gamepad, or mouse. With directional control, you can change values by simply pressing LEFT or RIGHT - before proceeding with ENTER or BUTTON 1. When using the mouse, you can browse fowards by LEFT-CLICKING and backwards by RIGHT-CLICKING. The ESCAPE key will always allow you to exit from any screen or cancel any action...
+
+When choosing the teams or players for an exhibition match, you have to tag each participant by pressing ENTER on keys, BUTTON 1 on a gamepad, or by LEFT-CLICKING with the mouse. A colour-coded number should indicate their role in the forthcoming match. Once all required participants have been selected, you should find that the "Exit" button has changed to "Proceed" ...
+
+When accessing a team, you may like to note that you can switch players by pressing SPACE on keys, BUTTON 2 on a gamepad, or by RIGHT-CLICKING with the mouse. Doing this while a match is in progress will trigger the substitution process, which may require extra loading. For more information about the editing process, please read further down this document...
+
+When selecting a team's tactics, you can fine-tune a player's position by pressing ENTER on keys, BUTTON 1 on a gamepad, or by LEFT-CLICKING with the mouse. You will then be able to move their icon around the pitch, before pressing the same command to confirm and exit...
+
+---------------------------------------- GAME CONTROLS ----------------------------------------
+
+The game itself can be controlled with either keys or gamepad. When only one human player is involved, the relating team can be controlled with either method automatically. Whereas in multi-player mode, the first team must use keys and the second team must use a gamepad. The precise layout for each method can be redefined in the Options menu, but by default they should be as follows:
+
+KEYS
+Z = Shoot / Sliding Tackle
+X = Pass / Lunging Tackle
+C = Lob / Sliding Tackle
+
+GAMEPAD
+BUTTON 1 = Shoot / Sliding Tackle
+BUTTON 2 = Pass / Lunging Tackle
+BUTTON 3 = Lob / Sliding Tackle
+
+* In any given situation, holding a command will increase the power (at the expense of accuracy) - while holding a direction will add aftertouch...
+* Under the default options, passing or lobbing without direction will aim for the nearest team-mate...
+
+COMBINATION TRICKS
+By pressing 2 commands together, you can perform the following novelty moves:
+SHOOT + PASS = Crossover Kick / Push
+PASS + LOB = Flick Up / Push
+SHOOT + LOB = Fake Foul
+
+* It's also possible to perform headers and volleys by pressing commands near an aerial ball...
+
+GOALKEEPING
+When in possession of a held ball, you have the following options:
+SHOOT = Kick Out Of Hands
+PASS = Roll Out Of Hands
+LOB = Deliberately Drop or Pick Up
+
+* When permanently controlling a keeper in "Specific Player" mode, you can trigger the most appropriate save by pressing any command...
+
+OTHER CONTROLS
+The following controls may help you fine-tune your enjoyment of the action:
+ESCAPE = Access team options / Leave a finished match
+P = Pause / Resume
+F1-F4 = Adjust game speed
+1 - 0 = Skip to one of 10 preset camera angles
+I/J/K/L/Y/H = Trigger and position the manual camera setting
+TAB = Assume control of another player (in "Specific" mode)
+F12 = Save screenshot to "Photo Album" folder  
+
+* During meetings and confrontations, it's possible to skip through the text by pressing any button...
+
+---------------------------------------- EDITING ----------------------------------------
+
+The game contains a sophisticated editing facility that allows you to customize every single character - from their profile and skills through to their appearance and demeanour. These editing facilities are locked by default, and must be unlocked by defeating each nation in the Campaign mode. Once all the other rosters have been unlocked, the default "Grass Roots" squad will become open too. During the Campaign mode, you are granted access to a cutdown version of this editor - which allows you to customize the appearance of your players...
+
+The results are normally plain to see, but when changing the "Build" setting you must press ENTER to update the 3D model. You are also reminded that some of the costumes and accessories are designed to have their colour schemes altered. By using the keys indicated below the thumbnail, you can set the shades of red, green, and blue in any image (pressing BACKSPACE will restore the default colour). The vast range of options can take a while to browse through, so do remember that you can "randomize" with the SPACE bar and warp closer to the selection you're looking for...
+
+In addition to customizing a team's players, you can also change their line-up's and trade characters from one squad to another. To do this, simply press SPACE on keys, BUTTON 2 on a gamepad, or RIGHT-CLICK with the mouse. You can then use the same command to switch with a second player, or to place them in a new team where applicable...
+
+---------------------------------------- CAMPAIGN MODE ----------------------------------------
+
+Upon starting a new campaign, you'll be asked to create your ideal star character - followed by the area of the map in which you'd like to begin your adventure. Once the introductory match is out of the way, your mission is to visit each neighbouring territory one-by-one and defeat the resident team. If successful, the territory becomes yours are you a free to proceed from there. However, failure means you will be sent back to your previous location - and may not return until you've been elsewhere...
+
+After each match, you get the chance to survey your current roster and add or remove members. Your squad can consist of no more than 9 players, so it's important to remove the deadweight if you'd like to keep your options open. You're able to replace them with any characters from the territory you're currently visiting, but a string of personal objections make the process extremely unpredictable! It's also possible to gain and lose members during the course of conversation - as you field all manner of suggestions in between matches...
+
+You will also notice that the health of your players fluctuates from match to match. The health they regain from one week to the next is governed by their "Stamina" setting, and is by no means guaranteed to leave them 100% fit. You can improve this and other attribites in the "Training" mode by assigning the character a course of exercise. They will then gradually make progress according to the "Intensity" of their work-out. However, their energy will also be sapped accordingly - so you have to strike the right balance...
+
+Your adventure continues until you successfully conquer all areas of the map (or give up on doing so!). However, it's also possible to be forced out by vindictive rivals and treacherous team-mates - at which point your star character must fight for survival. Your journey may also come to an end in the unlikely eventuality that your campaign loses all of its followers...
+
+When starting another campaign, you should find that the world is as you left it. If you'd like to restore the game's original status, simply use the "Reset World" option before you begin...
+
+---------------------------------------- CHARACTERS ----------------------------------------
+
+When recruiting new players and training your own, you may like to consider that the statistics have the following definitions:
+
+- POWER simply determines how hard they can kick the ball...
+- ACCURACY governs how accurate those kicks are likely to be, and also affects their ability to add curve...
+- SKILL indicates how much control the character has when in possession of the ball...
+- SPEED indicates how quickly they move and how far they travel when exerting themselves...
+- STAMINA determines how quickly their health deteriorates during a match, and how much it recovers afterwards...
+
+In the Campaign mode, you may notice that these statistics fluctuate with each passing week - and especially with each performance. There are also significant changes after injuries and when weight is gained or lost. As outlined above, any undesirable changes can be rectified with the "Training" facility...
+
+---------------------------------------- RULE OVERVIEW ----------------------------------------
+
+Since the game doesn't take place in a professional environment, you may like to take note of the following quirks:
+
+- Every match must come to a conclusion! If the scores remain tied after the allotted time, you'll play a shorter amount of "Extra Time" - during which the next goals wins. If a winner still can't be established, you must then take your chances in a "Penalty Shoot-Out"...
+- Upon conceding a goal, a "Goal Kick" is awarded instead of kicking-off again...
+- A "Goal Kick" simply requires the keeper to take the ball in hand and release it at will...
+- The goalkeeper may grab the ball whenever it enters his area, so back-passes are not an issue...
+- Upon being awarded a "Free Kick", the wronged player is the only one that can take it...
+- A spot kick may not be taken until the kicker has been given enough space...
+- You can make substitutions at any time, but it's strongly advised that you do so during a break in play...
+
+* Many rules can be adjusted further according to the location or match type. For instance, throw-in's aren't acknowledged when there are no pitch markings and corners aren't applicable when playing in one goal (or with too few players)...
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+For more information about this and other games, 
+please visit: http://www.MDickie.com 
+or contact: mat@mdickie.com
+
+

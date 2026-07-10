@@ -1,0 +1,13 @@
+GRASS 
+~~ O ~~
+ROOTS
+www.MDickie.com
+mat@mdickie.com
+
+EDITING KITS
+The game will automatically load any correctly named additions to this folder (up to 99). Please note that each folder must contain JPG files named "Arm01", "Arm02", "Body01", "Body02", and "Body03". Any other files will not be recognized... 
+
+You can adjust the designs however you see fit, but do remember that the areas of flesh need to be EXACTLY the same for each kit. "Arm01" must always be a t-shirt sleeve, "Arm02" must always be a long sleeve, "Body01" must always be a vest, "Body02" must always be an open neck shirt, and "Body03" must always be fully covered. Please note that racial shading is added by the game, and is not required at this stage...
+
+You are advised to show restraint when expanding the selection. Remember that every file takes its toll on the game's loading time and performance. Inversely, you are advised not to reduce the default range of costumes. Although it's safe to do so, it could ruin the appearance of the default characters...
+

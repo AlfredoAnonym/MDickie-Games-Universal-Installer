@@ -1,0 +1,12 @@
+GRASS 
+~~ O ~~
+ROOTS
+www.MDickie.com
+mat@mdickie.com
+
+EDITING COSTUMES
+The game will automatically load any correctly named JPG files in these folders. If you add new ones, or change the order, it is ESSENTIAL that you make sure there are no gaps in the sequence of numbers! The game will crash if the number of files is out of synch with the file names...
+
+When editing faces, it is advisable to stay faithful to what you replaced. The game detects race by number only, so tanned faces must remain tanned and black faces must remain black. The game is even sensitive to facial hair, and will earmark those files for a hairy chest! There is a similar distinction between shorts and pants. Again, you must replace like for like - because files 25 downwards will be viewed as shorts, and files 26 upwards will be viewed as pants...
+
+You are advised to show restraint when expanding the selection. Remember that every file takes its toll on the game's loading time and performance. Inversely, you are advised not to reduce the default range of costumes. Although it's safe to do so, it could ruin the appearance of the default characters...

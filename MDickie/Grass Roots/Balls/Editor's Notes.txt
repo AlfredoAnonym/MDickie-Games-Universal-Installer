@@ -1,0 +1,11 @@
+GRASS 
+~~ O ~~
+ROOTS
+www.MDickie.com
+mat@mdickie.com
+
+EDITING BALLS
+The game will recognize any correctly named additions to this folder (up to 99). Each folder must contain both a JPG and 3DS file named "Ball". However, you're free to edit the actual ball model - and indeed replace it with something completely different! If you'd like to add special properties, you can name the entity "Flat" to make it heavy or "Egg" to make it bounce irregularly...
+
+You are advised to show restraint when expanding the selection. Remember that every file takes its toll on the game's loading time and performance. Inversely, you are advised not to reduce the default range of balls - so that the Campaign mode knows where to find them ...
+

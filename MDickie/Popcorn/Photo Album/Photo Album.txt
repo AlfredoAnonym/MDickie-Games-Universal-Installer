@@ -1,0 +1,5 @@
+( POP | CORN )
+www.MDickie.com
+Mat@MDickie.com
+
+Whenever you press F12 during the game a screenshot will be saved to this directory. The images are saved in BMP format, which can result in extremely large file sizes. You should visit this folder regularly to delete any unwanted images, and those you do wish to keep should be saved again in a more efficient format (such as JPG)...

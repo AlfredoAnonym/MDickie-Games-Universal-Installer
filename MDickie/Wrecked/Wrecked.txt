@@ -1,0 +1,67 @@
+#################
+### WRECKED ###
+################
+www.MDickie.com      
+Mat@MDickie.com
+
+This document concerns itself with game's functionality. For a more detailed guide to the inner workings of the "Adventure" mode, please refer to "Survival Guide.txt"...
+
+SYSTEM REQUIREMENTS
+This game requires Windows 95/98/XP and DirectX 7.0 graphics or higher. Please appreciate that Wrecked is an extremely demanding game, and requires a strong processor of around 1.6gHz to run smoothly. Performance may be improved by changing the resolution and toning down other options...
+
+GAME MODES
+The game offers 2 seperate modes of play. The "Adventure" mode allows you to select one of 3 saved game slots and play through a continuous experience. Simply exit an Adventure at any time by pressing ESCAPE and the game will automatically preserve your progress. If you'd like to reset an existing saved game, simply press BACKSPACE over the relevant slot...
+
+The "Deathmatch" mode is a fun diversion from the main game. There's absolutely no pressure as you configure your own corner of the world to do battle in! You may even enjoy split-screen multiplayer action in this mode by activating the "Multiplayer" option (one player must use keyboard while the other uses gamepad)...
+
+------------------------------------------------- CONTROLS -------------------------------------------------------
+
+All menus can be controlled by either keyboard or gamepad. Simply use the directions to highlight and change values, while ENTER or BUTTON 1 activate an option. You can always exit the current screen (or game) by pressing ESCAPE...
+
+The game itself can also be controlled by either keyboard or gamepad (a distinction is only ever made in multiplayer Deathmatches). The Option menu offers you the chance to redefine the way these control methods are used, but these are the settings by default:
+
+KEYBOARD
+CURSORS = Movement (turn and advance)
+A = Left Attack
+S = Right Attack
+Z = Left Pick-Up
+X = Right Pick-Up 
+SPACE = Jump 
+LEFT CTRL = Sleep
+(This command can also be applied by pressing both Pick-Up commands simultaneously)
+
+GAMEPAD
+D-PAD = Movement (turn and advance)
+BUTTON 4 = Left Attack
+BUTTON 5 = Right Attack
+BUTTON 1 = Left Pick-Up
+BUTTON 2 = Right Pick-Up 
+BUTTON 6 = Jump 
+BUTTON 3 = Sleep
+(This command can also be applied by pressing both Pick-Up commands simultaneously)
+
+Whichever interface you use, you'll find that the game uses these basic commands to invoke other actions. The attacking commands, for instance, can also be used to THROW an item in the respective hand (hold down to throw farther). Furthermore, the game intuitively decides how to act upon the given action. For instance, pressing ATTACK near a grounded (or smaller) target will automatically make the character hit low instead of high...
+
+Likewise, the different PICK-UP commands are also used for DROPPING items. They can also be used for EATING edible items (by holding down the command instead of pressing it). This technique can also be used for DRINKING from deep water...
+
+OTHER CONTROLS
+These commands may also be applied during a regular game:
+ESCAPE = Exit / Speed through text
+ENTER = Proceed / Speed through text
+P = Pause / Unpause
+TAB = Toggle in-game displays
+F1-F4 = Increase game speed (useful for speeding through sleep)
+- / + = Change character (in Deathmatch mode)
+1 - 9 = Change camera angle
+0 = Activate "Manual" camera (which can then be controlled with I, J, K, L, Y, and H)
+F12 = Save screenshot to "Photo Album" directory
+
+* The following commands can be used to improve performance in the Adventure mode. However, please note that the effects are irreversible! If used excessively, they may ruin the game in progress:
+DELETE + C = Remove a random character
+DELETE + R = Remove a random resource
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+If you'd like to know more about this or any other game, 
+please contact: Mat@MDickie.com
+or visit: http://www.MDickie.com

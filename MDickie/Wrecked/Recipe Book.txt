@@ -1,0 +1,24 @@
+#################
+### WRECKED ###
+################
+www.MDickie.com
+Mat@MDickie.com
+
+By combining and working on the basic resources, you can create the following products or effects. You should familiarize yourself with the recipes in order to make use of them in the game...
+
+- WHIP = Vines (with bare hands)
+- STICK = Wood (with bare hands)
+- ROCK = Stone (with bare hands)
+- HAMMER = Vines+Wood+Stone (with bare hands)
+- SPEAR = Wood+Stone (with a Hammer)
+- AXE = Vines+Wood+Stone (with a Hammer)
+
+- FIRE = Wood (with a Stick, Oar, or Spear)
+- TRAP = Wood & Vines (with bare hands)
+          OR Wood (with a Whip)
+          OR Vines (with a Stick)
+
+- OAR = Wood (with a Hammer)
+- BOAT SEGMENT = Wood & Vines (with a Hammer)
+
+A more detailed guide to resource management can be found in the accompanying "Survival Guide.txt" document...

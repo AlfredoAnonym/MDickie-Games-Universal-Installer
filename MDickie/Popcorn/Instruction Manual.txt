@@ -1,0 +1,60 @@
+( POP | CORN )
+www.MDickie.com
+Mat@MDickie.com
+
+NOTE: This manual deals with the functionality of the game. For more information about the Career mode, please read the "Movie-making Masterclass" document...
+
+THE GAME
+Having conquered the musical world in Popscene, you must now turn your managerial skills to the movie industry! Here, soundtracks are the least of your concerns - as you preside over the scripts and footage that will yield a cinematic masterpiece. Unleash your camera on over 20 unique sets, 
+and choreograph each scene in a fully interactive 3D world... 
+
+Success demands that you immerse yourself in a thriving community of over 100 characters, spread across 6 unique studios. Assemble a crack team of writers and directors behind the camera, and then recruit the stars that can bring the material to life on screen. All the while trying to stay on budget, and diplomatically keeping those fragile egos in check week after week. By the time you expose your work to the opinionated public, you'll have taken part in a very real drama of your own!
+
+SYSTEM REQUIREMENTS
+This game requires a strong processor of at least 800mHz to run properly. Naturally, a 3D card is essential and must be running DirectX 7.0 graphics or higher (the latest version can always be at www.DirectX.com). 
+
+---------------------------------------- CONTROLS -------------------------------------------------------------
+
+MENU NAVIGATION
+As a management game, Popcorn is designed to be controlled by MOUSE at all times. The menus can be navigated by simply LEFT CLICKING on the appropriate options. Where necessary, values can be altered by using LEFT CLICK to browse forwards and RIGHT CLICK to browse backwards. If in doubt, you can always find additional advice throughout the game. ESCAPE can be used to exit a screen at any time, or to speed through processes such as negotiations or financial summaries...
+
+SET MANAGEMENT
+When shooting a scene, there are several additional controls that help you manage the action. The camera can be positioned with the CURSORS and raised or lowered with keys A and Z. When controlling a character, the CURSORS can be used to turn & advance - while Z is used to run and A is used to lift off the ground (ideal for moving over or dropping onto unusual structures). When you've configured the scene to your liking, you can process the footage by hitting ENTER. Otherwise, you are free to leave the set with ESCAPE and return at another time...
+
+In addition to the mouse, you can also use KEYS 1-9 as shortcuts to each entity in the scene. For instance, keys 1 and 2 will take you straight to the "Camera" and "Atmosphere" options respectively - while all remaining keys correspond to a character...
+
+In addition to the footage processed by the game, you can always take full-size screenshots of your own by hitting the F12 key. These images can then be found in the "Photo Album" folder under an appropriate title...
+
+--------------------------------------------------- STRUCTURE ---------------------------------------------------------
+
+The game is fairly self-explanatory. Once you've selected and configured your star character, you will begin life in the "Film School" - where you must survive on a meagre income until you sign with a major studio. Until that day comes, there are movies to be made! Simply visit the "Manage Project" screen to configure the details of your latest masterpiece, before proceeding to the "Manage Scenes" screen to write and shoot each scene. To this end, you can hire up to 8 crew members via the "Manage Crew" screen (or adjust the details of your existing employees). To find out who the key players are in each category and each studio, simply visit the "Study Database" option to access the vital stastics. You can browse the studios by clicking on the logos, and browse the categories by clicking on the current list...
+
+If you want to use exotic sets for your filming, these must be paid for and scheduled via the "Book Location" option. Meanwhile, if you want to reap the benefits of any of the 6 key resources, these too must be requested at the "Manage Resources" screen. The costs of your choices will be calculated and taken out of your account each week - together with the salaries of your employees and any promised royalties...
+
+To reach that point, simply click "Proceed" to end one day's work and continue to the next. You should find that space of time is interspersed with a reminder of the latest "Box Office" and "DVD" charts, followed by a handy breakdown of your financial situation. This is then followed by a weekly news round-up that reports the major happenings in your career and each studio. You may then be subjected to various business meetings before returning to the "Calendar" screen to resume work...
+
+Once a project has finally been moulded into a 5-scene sequence worth releasing, you can do just that (in theatres or on DVD) by selecting the relevant options in the "Manage Project" screen. At this point, you can even begin work on a new project by selecting an empty slot from the "Change Project" screen...
+
+And so the process continues until you fall foul of your various bosses and are forced to retire. If you wish to leave the game on your own terms (and preserve your legacy in the "Hall Of Fame"), you can do so at any moment via the ominous "Retire!" option...
+
+* A more detailed guide to the "Career" mode can be found in the "Movie-making Masterclass" document...
+
+---------------------------------------------------- EDITING -----------------------------------------------------------
+
+Throughout the game, you always have access to a character's profile via the "Manage Crew" screen. Here you can see the dozens of properties that make each character unique. You can change those which you have access to; although most out of bounds once a game begins. The costumes, for instance, can only be accessed once you purchase the necessary "Resource"...  
+
+Once you do have access to the costumes, simply head to the "Appearance" page and click on each body part to browse the options for that area. When adjusting the "Build" option, it's important to note that the effects are not immediately visible. You must press ENTER to reconstruct the model and view the results. You should also note that many of the costumes and accessories are designed to have their colours changed. You will find that they are white by default, but by simply mixing the red/green/blue elements you can generate a whole new look. This is achieved with keys Q,W,E and A,S,D (or BACKSPACE to revert back to pure white). You can see the current values next to the thumbnail of each image....
+
+Even with the costume resource, some of the more drastic physical changes are still out of bounds. These can only be changed by committing to (and paying for) plastic surgery. The button to access this process can always be found on the righthand side of the costume editing page. From there, a surgeon will guide you through the rest of the process...
+
+When using the actual "Editor" (or creating your star character at the beginning of the game), you will find that you have unlimited access to a character's profile. This privilege is obtained once you score a number one movie with each of the 6 studios. You can use this newfound power to sculpt your own movie universe! Any character that isn't busy with a "Career" is available to be edited as if they were your own. You can even move artists from one studio to another by using KEYS 1-6, and can assign a new boss with the SPACE BAR. Back at the studio selection screen, you can even enter a new name for a studio by pressing BACKSPACE or DELETE while they're highlighted (although you may need to change the logo too!)...
+
+In the event that the world gets a little messy, you can reset everything completely by clicking the "Reset World" button at main editing screen. Please note that characters tied up in careers are exempt from this process, so you should erase all saved games to ensure a complete reset. Also note that this process doesn't reset the character portraits, so you may want to take the time to ensure that your old characters have their original photos (see the "Data/Portraits/" folder)...
+
+----------------------------------------------------------------------------------------------------------------------------
+
+For more information about this game and others like it, 
+please visit: http://www.MDickie.com 
+or contact: Mat@MDickie.com
+
+
